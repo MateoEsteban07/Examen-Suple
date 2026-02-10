@@ -1,0 +1,704 @@
+
+[2026-02-09 17:23:31] ERROR: Acceso denegado.
+[2026-02-09 17:23:38] GOOD : Acceso concedido
+[2026-02-09 17:23:38] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 17:23:51] Leopardo: hols_G1_1 | Especie: Felino | Edad: 9 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:23:51] Leopardo: hols_G1_2 | Especie: Felino | Edad: 7 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:23:51] Leopardo: hols_G1_3 | Especie: Felino | Edad: 9 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:23:51] Leopardo: hols_G1_4 | Especie: Felino | Edad: 5 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:23:51] Leopardo: hols_G1_5 | Especie: Felino | Edad: 1 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:23:51] GOOD : Grupo 1 de 5 Leopardos creado.
+[2026-02-09 17:23:56] ERROR: Solo se puede entrenar un LeopardoGuamani (animal mutado).
+[2026-02-09 17:23:57] ERROR: Solo se puede entrenar un LeopardoGuamani (animal mutado).
+[2026-02-09 17:23:57] ERROR: Solo se puede entrenar un LeopardoGuamani (animal mutado).
+[2026-02-09 17:23:58] ERROR: Solo se puede entrenar un LeopardoGuamani (animal mutado).
+[2026-02-09 17:24:13] GOOD : Mutacion exitosa. hols_G1_1 → LeopardoGuamani (Hembra). IdChip=2 Gen=XX
+[2026-02-09 17:24:18] ERROR: Animal hols_G1_1 ya esta mutado.
+[2026-02-09 17:24:20] GOOD : LeopardoGuamani hols_G1_1 entrenado con ambas armas (1 entrenamiento).
+[2026-02-09 17:24:22] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:22] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:22] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 1
+[2026-02-09 17:24:22] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:22] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:22] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 2
+[2026-02-09 17:24:22] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:22] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:22] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 3
+[2026-02-09 17:24:23] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:23] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:23] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 4
+[2026-02-09 17:24:23] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:23] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:23] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 5
+[2026-02-09 17:24:23] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:23] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:23] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 6
+[2026-02-09 17:24:23] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:23] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:23] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 7
+[2026-02-09 17:24:24] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:24] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:24] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 8
+[2026-02-09 17:24:24] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:24] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:24] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 9
+[2026-02-09 17:24:24] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:24] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:24] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 10
+[2026-02-09 17:24:24] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:24] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:24] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 11
+[2026-02-09 17:24:25] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:25] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:25] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 12
+[2026-02-09 17:24:25] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:25] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:25] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 13
+[2026-02-09 17:24:25] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:25] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:25] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 14
+[2026-02-09 17:24:25] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:25] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:25] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 15
+[2026-02-09 17:24:25] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:24:25] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:24:25] GOOD : Leopardo hols_G1_1 disparo con municion: Pala | Total disparos: 16
+[2026-02-09 17:24:26] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:26] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:26] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 17
+[2026-02-09 17:24:26] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:24:26] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:24:26] GOOD : Leopardo hols_G1_1 disparo con municion: Energia | Total disparos: 18
+[2026-02-09 17:24:51] GOOD : Acceso concedido
+[2026-02-09 17:24:51] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 17:25:03] Leopardo: mateo_G1_1 | Especie: Felino | Edad: 4 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:25:03] Leopardo: mateo_G1_2 | Especie: Felino | Edad: 5 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:25:03] Leopardo: mateo_G1_3 | Especie: Felino | Edad: 8 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:25:03] Leopardo: mateo_G1_4 | Especie: Felino | Edad: 2 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:25:03] Leopardo: mateo_G1_5 | Especie: Felino | Edad: 3 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 17:25:03] GOOD : Grupo 1 de 5 Leopardos creado.
+[2026-02-09 17:25:16] ERROR: Mutacion fallida. IdChip=6 Gen=XY. Requiere IdChip par y Gen XX. Sin cambios.
+[2026-02-09 17:25:26] GOOD : Mutacion exitosa. mateo_G1_1 → LeopardoGuamani (Hembra). IdChip=2 Gen=XX
+[2026-02-09 17:25:29] GOOD : LeopardoGuamani mateo_G1_1 entrenado con ambas armas (1 entrenamiento).
+[2026-02-09 17:25:36] ERROR: Animal mateo_G1_1 ya esta mutado.
+[2026-02-09 17:25:38] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:38] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:38] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 1
+[2026-02-09 17:25:38] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:25:38] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:25:38] GOOD : Leopardo mateo_G1_1 disparo con municion: Energia | Total disparos: 2
+[2026-02-09 17:25:38] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:38] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:38] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 3
+[2026-02-09 17:25:38] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:25:38] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:25:38] GOOD : Leopardo mateo_G1_1 disparo con municion: Energia | Total disparos: 4
+[2026-02-09 17:25:39] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:39] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:39] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 5
+[2026-02-09 17:25:39] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:39] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:39] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 6
+[2026-02-09 17:25:39] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:25:39] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:25:39] GOOD : Leopardo mateo_G1_1 disparo con municion: Energia | Total disparos: 7
+[2026-02-09 17:25:39] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:25:39] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:25:39] GOOD : Leopardo mateo_G1_1 disparo con municion: Energia | Total disparos: 8
+[2026-02-09 17:25:39] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:39] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:39] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 9
+[2026-02-09 17:25:39] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:25:39] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:25:39] GOOD : Leopardo mateo_G1_1 disparo con municion: Energia | Total disparos: 10
+[2026-02-09 17:25:40] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:40] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:40] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 11
+[2026-02-09 17:25:40] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:25:40] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:25:40] GOOD : Leopardo mateo_G1_1 disparo con municion: Energia | Total disparos: 12
+[2026-02-09 17:25:40] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:40] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:40] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 13
+[2026-02-09 17:25:40] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 17:25:40] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 17:25:40] GOOD : Leopardo mateo_G1_1 disparo con municion: Energia | Total disparos: 14
+[2026-02-09 17:25:40] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:40] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:40] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 15
+[2026-02-09 17:25:41] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 17:25:41] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 17:25:41] GOOD : Leopardo mateo_G1_1 disparo con municion: Pala | Total disparos: 16
+[2026-02-09 17:35:25] GOOD : Acceso concedido
+[2026-02-09 17:35:26] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 18:57:42] GOOD : Acceso concedido
+[2026-02-09 18:57:42] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 18:57:50] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 10 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 18:57:50] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 9 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 18:57:50] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 5 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 18:57:50] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 9 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 18:57:50] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 6 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 18:57:50] GOOD : Grupo 1 de 5 Leopardos creado.
+[2026-02-09 18:58:03] GOOD : Mutacion exitosa. Leopardo_G1_1 → LeopardoGuamani (Hembra). IdChip=1753251816 Gen=XX
+[2026-02-09 18:58:07] GOOD : LeopardoGuamani Leopardo_G1_1 entrenado con ambas armas (1 entrenamiento).
+[2026-02-09 18:58:11] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:11] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:11] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 1
+[2026-02-09 18:58:12] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:12] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:12] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 2
+[2026-02-09 18:58:12] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:12] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:12] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 3
+[2026-02-09 18:58:12] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:12] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:12] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 4
+[2026-02-09 18:58:12] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:12] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:12] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 5
+[2026-02-09 18:58:12] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:12] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:12] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 6
+[2026-02-09 18:58:12] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:12] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:12] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 7
+[2026-02-09 18:58:13] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:13] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:13] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 8
+[2026-02-09 18:58:13] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:13] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:13] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 9
+[2026-02-09 18:58:13] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:13] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:13] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 10
+[2026-02-09 18:58:13] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:13] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:13] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 11
+[2026-02-09 18:58:13] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:13] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:13] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 12
+[2026-02-09 18:58:13] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:13] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:13] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 13
+[2026-02-09 18:58:14] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:14] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:14] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 14
+[2026-02-09 18:58:14] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:14] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:14] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 15
+[2026-02-09 18:58:14] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:14] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:14] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 16
+[2026-02-09 18:58:14] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:14] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:14] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 17
+[2026-02-09 18:58:14] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:14] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:14] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 18
+[2026-02-09 18:58:14] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:14] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:14] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 19
+[2026-02-09 18:58:15] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:15] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:15] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 20
+[2026-02-09 18:58:15] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:15] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:15] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 21
+[2026-02-09 18:58:15] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:15] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:15] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 22
+[2026-02-09 18:58:15] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:15] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:15] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 23
+[2026-02-09 18:58:15] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 18:58:15] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 18:58:15] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Energia | Total disparos: 24
+[2026-02-09 18:58:15] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:15] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:15] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 25
+[2026-02-09 18:58:16] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 18:58:16] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 18:58:16] GOOD : Leopardo Leopardo_G1_1 disparo con municion: Pala | Total disparos: 26
+[2026-02-09 20:00:12] GOOD : Acceso concedido
+[2026-02-09 20:00:13] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 20:02:37] GOOD : Acceso concedido
+[2026-02-09 20:02:37] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 20:03:15] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 10 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:03:15] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 6 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:03:15] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 3 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:03:15] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 3 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:03:15] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 2 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:03:15] GOOD : Grupo 1 de 5 Leopardos creado.
+[2026-02-09 20:03:40] ERROR: Mutacion fallida. IdChip=1753251816 Gen=XY. Requiere IdChip par y Gen XX. Sin cambios.
+[2026-02-09 20:42:31] GOOD : Acceso concedido
+[2026-02-09 20:42:31] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 20:42:40] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 10 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:42:40] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 9 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:42:40] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 10 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:42:40] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 9 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:42:40] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 5 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:42:40] GOOD : Grupo 1 de 5 Leopardos creado.
+[2026-02-09 20:42:59] GOOD : Mutacion exitosa. Leopardo_G1_1 → LeopardoGuamani (Hembra). IdChip=1753251816 Gen=XX
+[2026-02-09 20:43:21] Leopardo: Leopardo_G2_1 | Especie: Felino | Edad: 9 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:43:21] Leopardo: Leopardo_G2_2 | Especie: Felino | Edad: 8 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:43:21] Leopardo: Leopardo_G2_3 | Especie: Felino | Edad: 2 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:43:21] Leopardo: Leopardo_G2_4 | Especie: Felino | Edad: 9 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:43:21] Leopardo: Leopardo_G2_5 | Especie: Felino | Edad: 1 | Sexo: Indefinido | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 20:43:21] GOOD : Grupo 2 de 5 Leopardos creado.
+[2026-02-09 21:32:08] GOOD : Acceso concedido
+[2026-02-09 21:32:09] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 21:32:29] GOOD : Grupo 1 de 5 Leopardos creado.
+[2026-02-09 21:35:15] GOOD : Mutacion exitosa. Leopardo_G1_1 → LeopardoGuamani (Hembra). IdChip=1753251816 Gen=XX
+[2026-02-09 21:58:43] GOOD : Acceso concedido
+[2026-02-09 21:58:43] GOOD : Interfaz grafica GuamaniMutaGeno iniciada.
+[2026-02-09 22:03:28] GOOD : Acceso concedido
+[2026-02-09 22:03:28] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:03:33] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 1 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:03:33] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 3 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:03:33] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 7 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:03:33] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 6 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:03:33] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 1 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:03:33] GOOD : Grupo 1 creado.
+[2026-02-09 22:03:54] GOOD : Mutacion exitosa. Leopardo_G1_5 → LeopardoGuamani (Hembra). IdChip=1753251816 Gen=XX
+[2026-02-09 22:04:07] GOOD : LeopardoGuamani Leopardo_G1_5 entrenado con exito.
+[2026-02-09 22:04:10] ERROR: Animal no entrenable (No es Guamani).
+[2026-02-09 22:04:15] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:15] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:15] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 1
+[2026-02-09 22:04:15] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:15] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:15] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 2
+[2026-02-09 22:04:16] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:16] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:16] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 3
+[2026-02-09 22:04:16] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:16] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:16] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 4
+[2026-02-09 22:04:16] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:16] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:16] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 5
+[2026-02-09 22:04:16] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 22:04:16] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 22:04:16] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Pala | Total disparos: 6
+[2026-02-09 22:04:16] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:16] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:16] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 7
+[2026-02-09 22:04:17] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:17] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:17] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 8
+[2026-02-09 22:04:17] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:17] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:17] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 9
+[2026-02-09 22:04:17] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:17] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:17] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 10
+[2026-02-09 22:04:17] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:17] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:17] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 11
+[2026-02-09 22:04:17] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:17] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:17] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 12
+[2026-02-09 22:04:17] GOOD : Arma1 disparo con municion: Balaala
+[2026-02-09 22:04:17] GOOD : Arma2 disparo con municion: Balaala
+[2026-02-09 22:04:17] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Balaala | Total disparos: 13
+[2026-02-09 22:04:18] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:18] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:18] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 14
+[2026-02-09 22:04:18] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:18] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:18] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 15
+[2026-02-09 22:04:18] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:18] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:18] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 16
+[2026-02-09 22:04:18] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:18] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:18] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 17
+[2026-02-09 22:04:18] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:18] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:18] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 18
+[2026-02-09 22:04:18] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:18] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:18] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 19
+[2026-02-09 22:04:18] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:18] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:18] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 20
+[2026-02-09 22:04:19] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:19] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:19] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 21
+[2026-02-09 22:04:19] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:19] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:19] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 22
+[2026-02-09 22:04:19] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:19] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:19] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 23
+[2026-02-09 22:04:19] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:19] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:19] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 24
+[2026-02-09 22:04:19] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:19] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:19] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 25
+[2026-02-09 22:04:20] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 22:04:20] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 22:04:20] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Pala | Total disparos: 26
+[2026-02-09 22:04:20] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:20] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:20] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 27
+[2026-02-09 22:04:20] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:20] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:20] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 28
+[2026-02-09 22:04:20] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:20] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:20] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 29
+[2026-02-09 22:04:22] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:22] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:22] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 30
+[2026-02-09 22:04:23] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:23] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:23] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 31
+[2026-02-09 22:04:23] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:23] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:23] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 32
+[2026-02-09 22:04:24] GOOD : Arma1 disparo con municion: Balaala
+[2026-02-09 22:04:24] GOOD : Arma2 disparo con municion: Balaala
+[2026-02-09 22:04:24] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Balaala | Total disparos: 33
+[2026-02-09 22:04:24] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:24] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:24] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 34
+[2026-02-09 22:04:25] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:25] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:25] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 35
+[2026-02-09 22:04:25] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:25] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:25] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 36
+[2026-02-09 22:04:26] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:26] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:26] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 37
+[2026-02-09 22:04:26] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:26] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:26] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 38
+[2026-02-09 22:04:27] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:27] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:27] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 39
+[2026-02-09 22:04:27] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:27] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:27] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 40
+[2026-02-09 22:04:28] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:28] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:28] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 41
+[2026-02-09 22:04:28] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:28] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:28] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 42
+[2026-02-09 22:04:28] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:28] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:28] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 43
+[2026-02-09 22:04:29] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:29] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:29] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 44
+[2026-02-09 22:04:29] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:29] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:29] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 45
+[2026-02-09 22:04:30] GOOD : Arma1 disparo con municion: Pala
+[2026-02-09 22:04:30] GOOD : Arma2 disparo con municion: Pala
+[2026-02-09 22:04:30] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Pala | Total disparos: 46
+[2026-02-09 22:04:30] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:30] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:30] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 47
+[2026-02-09 22:04:31] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:31] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:31] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 48
+[2026-02-09 22:04:31] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:31] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:31] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 49
+[2026-02-09 22:04:32] GOOD : Arma1 disparo con municion: Energia
+[2026-02-09 22:04:32] GOOD : Arma2 disparo con municion: Energia
+[2026-02-09 22:04:32] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Energia | Total disparos: 50
+[2026-02-09 22:04:32] GOOD : Arma1 disparo con municion: Bala
+[2026-02-09 22:04:32] GOOD : Arma2 disparo con municion: Bala
+[2026-02-09 22:04:32] GOOD : Leopardo Leopardo_G1_5 disparo con municion: Bala | Total disparos: 51
+[2026-02-09 22:08:42] GOOD : Acceso concedido
+[2026-02-09 22:08:42] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:08:52] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 6 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:52] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 4 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:52] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 2 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:52] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 2 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:52] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 1 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:52] GOOD : Grupo 1 creado.
+[2026-02-09 22:08:56] Leopardo: leopardo_G2_1 | Especie: Felino | Edad: 2 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:56] Leopardo: leopardo_G2_2 | Especie: Felino | Edad: 2 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:56] Leopardo: leopardo_G2_3 | Especie: Felino | Edad: 4 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:56] Leopardo: leopardo_G2_4 | Especie: Felino | Edad: 10 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:56] Leopardo: leopardo_G2_5 | Especie: Felino | Edad: 3 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:08:56] GOOD : Grupo 2 creado.
+[2026-02-09 22:09:09] Leopardo: Leopardo_G3_1 | Especie: Felino | Edad: 3 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:09] Leopardo: Leopardo_G3_2 | Especie: Felino | Edad: 1 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:09] Leopardo: Leopardo_G3_3 | Especie: Felino | Edad: 6 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:09] Leopardo: Leopardo_G3_4 | Especie: Felino | Edad: 2 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:09] Leopardo: Leopardo_G3_5 | Especie: Felino | Edad: 1 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:09] GOOD : Grupo 3 creado.
+[2026-02-09 22:09:11] Leopardo: Leopardo_G4_1 | Especie: Felino | Edad: 1 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:11] Leopardo: Leopardo_G4_2 | Especie: Felino | Edad: 3 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:11] Leopardo: Leopardo_G4_3 | Especie: Felino | Edad: 8 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:11] Leopardo: Leopardo_G4_4 | Especie: Felino | Edad: 10 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:11] Leopardo: Leopardo_G4_5 | Especie: Felino | Edad: 9 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:09:11] GOOD : Grupo 4 creado.
+[2026-02-09 22:09:25] ERROR: No esta entrenado.
+[2026-02-09 22:09:26] ERROR: No esta entrenado.
+[2026-02-09 22:09:27] ERROR: No esta entrenado.
+[2026-02-09 22:09:28] ERROR: No esta entrenado.
+[2026-02-09 22:09:29] ERROR: No esta entrenado.
+[2026-02-09 22:09:31] ERROR: No esta entrenado.
+[2026-02-09 22:09:31] ERROR: No esta entrenado.
+[2026-02-09 22:09:32] ERROR: No esta entrenado.
+[2026-02-09 22:09:32] ERROR: No esta entrenado.
+[2026-02-09 22:09:32] ERROR: No esta entrenado.
+[2026-02-09 22:09:33] ERROR: No esta entrenado.
+[2026-02-09 22:09:33] ERROR: No esta entrenado.
+[2026-02-09 22:09:34] ERROR: No esta entrenado.
+[2026-02-09 22:09:34] ERROR: No esta entrenado.
+[2026-02-09 22:09:34] ERROR: No esta entrenado.
+[2026-02-09 22:09:35] ERROR: No esta entrenado.
+[2026-02-09 22:09:35] ERROR: No esta entrenado.
+[2026-02-09 22:09:36] ERROR: No esta entrenado.
+[2026-02-09 22:09:36] ERROR: No esta entrenado.
+[2026-02-09 22:09:36] ERROR: No esta entrenado.
+[2026-02-09 22:09:37] ERROR: No esta entrenado.
+[2026-02-09 22:09:38] ERROR: Animal no entrenable (No es Guamani).
+[2026-02-09 22:09:40] ERROR: No esta entrenado.
+[2026-02-09 22:09:40] ERROR: No esta entrenado.
+[2026-02-09 22:09:40] ERROR: No esta entrenado.
+[2026-02-09 22:09:41] ERROR: No esta entrenado.
+[2026-02-09 22:09:41] ERROR: No esta entrenado.
+[2026-02-09 22:09:41] ERROR: No esta entrenado.
+[2026-02-09 22:09:41] ERROR: No esta entrenado.
+[2026-02-09 22:09:42] ERROR: No esta entrenado.
+[2026-02-09 22:09:42] ERROR: No esta entrenado.
+[2026-02-09 22:09:42] ERROR: No esta entrenado.
+[2026-02-09 22:09:42] ERROR: No esta entrenado.
+[2026-02-09 22:09:43] ERROR: No esta entrenado.
+[2026-02-09 22:09:43] ERROR: No esta entrenado.
+[2026-02-09 22:09:43] ERROR: No esta entrenado.
+[2026-02-09 22:09:43] ERROR: No esta entrenado.
+[2026-02-09 22:09:43] ERROR: No esta entrenado.
+[2026-02-09 22:09:45] ERROR: No esta entrenado.
+[2026-02-09 22:09:45] ERROR: No esta entrenado.
+[2026-02-09 22:09:45] ERROR: No esta entrenado.
+[2026-02-09 22:09:45] ERROR: No esta entrenado.
+[2026-02-09 22:09:46] ERROR: No esta entrenado.
+[2026-02-09 22:09:46] ERROR: No esta entrenado.
+[2026-02-09 22:09:46] ERROR: No esta entrenado.
+[2026-02-09 22:09:46] ERROR: No esta entrenado.
+[2026-02-09 22:09:48] ERROR: No esta entrenado.
+[2026-02-09 22:09:48] ERROR: No esta entrenado.
+[2026-02-09 22:09:48] ERROR: No esta entrenado.
+[2026-02-09 22:09:50] ERROR: No esta entrenado.
+[2026-02-09 22:09:50] ERROR: No esta entrenado.
+[2026-02-09 22:09:51] ERROR: No esta entrenado.
+[2026-02-09 22:09:51] ERROR: No esta entrenado.
+[2026-02-09 22:09:51] ERROR: No esta entrenado.
+[2026-02-09 22:09:52] ERROR: No esta entrenado.
+[2026-02-09 22:09:53] ERROR: No esta entrenado.
+[2026-02-09 22:09:53] ERROR: No esta entrenado.
+[2026-02-09 22:09:53] ERROR: No esta entrenado.
+[2026-02-09 22:16:00] GOOD : Acceso concedido
+[2026-02-09 22:16:00] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:27:01] GOOD : Acceso concedido
+[2026-02-09 22:27:01] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:27:09] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 10 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:27:09] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 10 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:27:09] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 8 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:27:09] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 4 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:27:09] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 9 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:27:09] GOOD : Grupo 1 creado.
+[2026-02-09 22:27:11] ERROR: No esta entrenado.
+[2026-02-09 22:27:12] ERROR: No esta entrenado.
+[2026-02-09 22:27:12] ERROR: No esta entrenado.
+[2026-02-09 22:27:12] ERROR: No esta entrenado.
+[2026-02-09 22:27:12] ERROR: No esta entrenado.
+[2026-02-09 22:27:12] ERROR: No esta entrenado.
+[2026-02-09 22:27:13] ERROR: No esta entrenado.
+[2026-02-09 22:27:13] ERROR: No esta entrenado.
+[2026-02-09 22:27:13] ERROR: No esta entrenado.
+[2026-02-09 22:31:29] GOOD : Acceso concedido
+[2026-02-09 22:31:30] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:31:34] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 5 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:34] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 3 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:34] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 6 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:34] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 1 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:34] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 7 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:34] GOOD : Grupo 1 creado.
+[2026-02-09 22:31:44] Leopardo: Leopardo_G2_1 | Especie: Felino | Edad: 2 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:44] Leopardo: Leopardo_G2_2 | Especie: Felino | Edad: 10 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:44] Leopardo: Leopardo_G2_3 | Especie: Felino | Edad: 3 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:44] Leopardo: Leopardo_G2_4 | Especie: Felino | Edad: 7 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:44] Leopardo: Leopardo_G2_5 | Especie: Felino | Edad: 6 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:31:44] GOOD : Grupo 2 creado.
+[2026-02-09 22:33:09] GOOD : Acceso concedido
+[2026-02-09 22:33:09] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:33:13] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 6 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:33:13] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 4 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:33:13] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 8 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:33:13] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 5 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:33:13] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 9 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:33:13] GOOD : Grupo 1 creado.
+[2026-02-09 22:33:15] INFO: A Leopardo_G1_1 le ha crecido la cola y obtiene armas por instinto.
+[2026-02-09 22:33:15] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:33:15] INFO : Leopardo_G1_1 disparo exitoso. (Total: 1)
+[2026-02-09 22:33:16] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:33:16] INFO : Leopardo_G1_1 disparo exitoso. (Total: 2)
+[2026-02-09 22:33:18] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:33:18] INFO : Leopardo_G1_1 disparo exitoso. (Total: 3)
+[2026-02-09 22:33:19] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:33:19] INFO : Leopardo_G1_1 disparo exitoso. (Total: 4)
+[2026-02-09 22:33:21] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:33:21] INFO : Leopardo_G1_1 disparo exitoso. (Total: 5)
+[2026-02-09 22:33:22] ERROR: Municion desconocida o agotada (Pala) - No se disparó.
+[2026-02-09 22:33:22] INFO : Leopardo_G1_1 disparo exitoso. (Total: 6)
+[2026-02-09 22:33:26] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:33:26] INFO : Leopardo_G1_1 disparo exitoso. (Total: 7)
+[2026-02-09 22:33:31] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:33:31] INFO : Leopardo_G1_1 disparo exitoso. (Total: 8)
+[2026-02-09 22:33:34] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:33:34] INFO : Leopardo_G1_1 disparo exitoso. (Total: 9)
+[2026-02-09 22:33:38] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:33:38] INFO : Leopardo_G1_1 disparo exitoso. (Total: 10)
+[2026-02-09 22:33:39] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:33:39] INFO : Leopardo_G1_1 disparo exitoso. (Total: 11)
+[2026-02-09 22:34:16] GOOD : Acceso concedido
+[2026-02-09 22:34:17] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:34:20] Leopardo: Leopardo_G1_1 | Especie: Felino | Edad: 8 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:34:20] Leopardo: Leopardo_G1_2 | Especie: Felino | Edad: 9 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:34:20] Leopardo: Leopardo_G1_3 | Especie: Felino | Edad: 2 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:34:20] Leopardo: Leopardo_G1_4 | Especie: Felino | Edad: 9 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:34:20] Leopardo: Leopardo_G1_5 | Especie: Felino | Edad: 1 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:34:20] GOOD : Grupo 1 creado.
+[2026-02-09 22:41:27] GOOD : Acceso concedido
+[2026-02-09 22:41:27] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:42:01] Leopardo: MutaGeno_G1_1 | Especie: Felino | Edad: 3 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:42:01] Leopardo: MutaGeno_G1_2 | Especie: Felino | Edad: 7 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:42:01] Leopardo: MutaGeno_G1_3 | Especie: Felino | Edad: 6 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:42:01] Leopardo: MutaGeno_G1_4 | Especie: Felino | Edad: 7 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:42:01] Leopardo: MutaGeno_G1_5 | Especie: Felino | Edad: 4 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:42:01] GOOD : Grupo 1 creado (MutaGeno).
+[2026-02-09 22:42:19] ERROR: Mutacion fallida. IdChip=1753251816 Gen=Xadas. Requiere IdChip par y Gen XX. Sin cambios.
+[2026-02-09 22:43:06] Leopardo: Leopardo1_G2_1 | Especie: Felino | Edad: 9 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:43:06] Leopardo: Leopardo1_G2_2 | Especie: Felino | Edad: 2 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:43:06] Leopardo: Leopardo1_G2_3 | Especie: Felino | Edad: 2 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:43:06] Leopardo: Leopardo1_G2_4 | Especie: Felino | Edad: 7 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:43:06] Leopardo: Leopardo1_G2_5 | Especie: Felino | Edad: 6 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:43:06] GOOD : Grupo 2 creado (Leopardo1).
+[2026-02-09 22:45:27] GOOD : Acceso concedido
+[2026-02-09 22:45:27] GOOD : Interfaz grafica iniciada. (Logs visibles en Terminal)
+[2026-02-09 22:45:40] Leopardo: Leopardo 2_G1_1 | Especie: Felino | Edad: 6 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:40] Leopardo: Leopardo 2_G1_2 | Especie: Felino | Edad: 8 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:40] Leopardo: Leopardo 2_G1_3 | Especie: Felino | Edad: 9 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:40] Leopardo: Leopardo 2_G1_4 | Especie: Felino | Edad: 3 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:40] Leopardo: Leopardo 2_G1_5 | Especie: Felino | Edad: 3 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:40] GOOD : Grupo 1 creado (Leopardo 2).
+[2026-02-09 22:45:46] Leopardo: Leopardo 2_G2_1 | Especie: Felino | Edad: 7 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:46] Leopardo: Leopardo 2_G2_2 | Especie: Felino | Edad: 10 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:46] Leopardo: Leopardo 2_G2_3 | Especie: Felino | Edad: 10 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:46] Leopardo: Leopardo 2_G2_4 | Especie: Felino | Edad: 5 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:46] Leopardo: Leopardo 2_G2_5 | Especie: Felino | Edad: 7 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:46] GOOD : Grupo 2 creado (Leopardo 2).
+[2026-02-09 22:45:51] Leopardo: Leopardo 3_G3_1 | Especie: Felino | Edad: 4 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:51] Leopardo: Leopardo 3_G3_2 | Especie: Felino | Edad: 8 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:51] Leopardo: Leopardo 3_G3_3 | Especie: Felino | Edad: 4 | Sexo: Hembra | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:51] Leopardo: Leopardo 3_G3_4 | Especie: Felino | Edad: 10 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:51] Leopardo: Leopardo 3_G3_5 | Especie: Felino | Edad: 9 | Sexo: Macho | Extremidad: No | Entrenado: No | Disparos: 0
+[2026-02-09 22:45:51] GOOD : Grupo 3 creado (Leopardo 3).
+[2026-02-09 22:46:00] INFO: A Leopardo 2_G1_1 le ha crecido la cola y obtiene armas por instinto.
+[2026-02-09 22:46:00] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:00] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 1)
+[2026-02-09 22:46:01] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:01] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 2)
+[2026-02-09 22:46:01] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:01] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 3)
+[2026-02-09 22:46:01] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:01] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 4)
+[2026-02-09 22:46:01] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:01] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 5)
+[2026-02-09 22:46:02] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:02] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 6)
+[2026-02-09 22:46:02] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:02] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 7)
+[2026-02-09 22:46:02] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:02] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 8)
+[2026-02-09 22:46:02] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:02] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 9)
+[2026-02-09 22:46:02] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:02] INFO : Leopardo 2_G1_1 disparo exitoso. (Total: 10)
+[2026-02-09 22:46:04] ERROR: Animal no entrenable (No es Guamani).
+[2026-02-09 22:46:16] GOOD : Mutacion exitosa. Leopardo 2_G1_5 → LeopardoGuamani (Hembra). IdChip=1753251816 Gen=XX
+[2026-02-09 22:46:20] GOOD : LeopardoGuamani Leopardo 2_G1_5 entrenado con exito.
+[2026-02-09 22:46:22] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:22] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 1)
+[2026-02-09 22:46:23] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:23] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 2)
+[2026-02-09 22:46:23] ERROR: Municion desconocida o agotada (Balaala) - No se disparó.
+[2026-02-09 22:46:23] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 3)
+[2026-02-09 22:46:23] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:23] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 4)
+[2026-02-09 22:46:23] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:23] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 5)
+[2026-02-09 22:46:23] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:23] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 6)
+[2026-02-09 22:46:23] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:23] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 7)
+[2026-02-09 22:46:24] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:24] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 8)
+[2026-02-09 22:46:24] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:24] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 9)
+[2026-02-09 22:46:24] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:24] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 10)
+[2026-02-09 22:46:24] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:24] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 11)
+[2026-02-09 22:46:24] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:24] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 12)
+[2026-02-09 22:46:24] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:24] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 13)
+[2026-02-09 22:46:24] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:24] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 14)
+[2026-02-09 22:46:25] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:25] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 15)
+[2026-02-09 22:46:25] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:25] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 16)
+[2026-02-09 22:46:25] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:25] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 17)
+[2026-02-09 22:46:25] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:25] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 18)
+[2026-02-09 22:46:25] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:25] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 19)
+[2026-02-09 22:46:25] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:25] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 20)
+[2026-02-09 22:46:25] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:25] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 21)
+[2026-02-09 22:46:26] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:26] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 22)
+[2026-02-09 22:46:26] ERROR: Municion desconocida o agotada (Balaala) - No se disparó.
+[2026-02-09 22:46:26] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 23)
+[2026-02-09 22:46:26] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:26] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 24)
+[2026-02-09 22:46:26] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:26] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 25)
+[2026-02-09 22:46:27] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:27] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 26)
+[2026-02-09 22:46:27] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:27] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 27)
+[2026-02-09 22:46:27] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:27] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 28)
+[2026-02-09 22:46:27] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:27] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 29)
+[2026-02-09 22:46:28] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:28] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 30)
+[2026-02-09 22:46:28] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:28] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 31)
+[2026-02-09 22:46:28] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:28] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 32)
+[2026-02-09 22:46:29] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:29] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 33)
+[2026-02-09 22:46:29] GOOD : [ARMA 2] Plasma liberado! (BZZZT!) - Municion: Energia consumida.
+[2026-02-09 22:46:29] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 34)
+[2026-02-09 22:46:29] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:29] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 35)
+[2026-02-09 22:46:29] GOOD : [ARMA 1] Disparo percutido! (PUM!) - Municion: Bala consumida.
+[2026-02-09 22:46:29] INFO : Leopardo 2_G1_5 disparo exitoso. (Total: 36)
